@@ -1,6 +1,5 @@
-# zadanie1 - Kacper Czajka
+# zadanie1 - Część Obowiązkowa  
 
-Część Obowiązkowa  
 Użyte polecenia:  
 docker build -t myapp .  
 docker run -d -p 8080:8080 --name htest myapp  
