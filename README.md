@@ -1,6 +1,6 @@
 # zadanie1
 
-Użyte polecenia:
+Użyte polecenia:  
 docker build -t myapp .  
 docker run -d -p 8080:8080 --name htest myapp  
 docker ps  
