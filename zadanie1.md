@@ -1,4 +1,4 @@
-# zadanie1
+# zadanie1 - Kacper Czajka
 
 Użyte polecenia:  
 docker build -t myapp .  
