@@ -1,4 +1,4 @@
-# zadanie1 - Część Obowiązkowa  
+# zadanie1 - część obowiązkowa  
 
 Użyte polecenia:  
 docker build -t myapp .  
